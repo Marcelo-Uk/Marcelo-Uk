@@ -1,8 +1,6 @@
 ## Olá! ✌🏻🙂<br>
 Meu nome é <strong>Marcelo-Uk</strong><br><br>
-Atualmente estou desenvolvendo conhecimento em <strong>Javascript, ReactJS e NodeJS</strong>.<br>
-Inicialmente, colocarei aqui alguns projetos feitos durante essa fase de estudos, que servirão também como portifólio do meu trabalho.
-
+Atualmente estou desenvolvendo conhecimento em <strong>Python / Django</strong>.<br>
 ##
 
 <div align="center">
