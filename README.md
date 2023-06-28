@@ -1,6 +1,6 @@
 ## Olá! ✌🏻🙂<br>
 Meu nome é <strong>Marcelo-Uk</strong><br><br>
-Atualmente estou desenvolvendo conhecimento em <strong>Python / Django</strong>.<br>
+Atualmente estou desenvolvendo conhecimento em <strong>Java / Spring Boot</strong>.<br>
 ##
 
 <div align="center">
