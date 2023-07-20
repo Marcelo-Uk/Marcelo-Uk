@@ -1,6 +1,8 @@
 ## Olá! ✌🏻🙂<br>
 Meu nome é <strong>Marcelo-Uk</strong><br><br>
-Atualmente estou desenvolvendo conhecimento em <strong>Java / Spring Boot</strong>.<br>
+Sou estudante de Sistemas de Informação no Instituto Federal de Goiás.
+Atualmente estou estudando algumas linguagens de programação, procurando a que melhor me identifico.
+Entre elas estão <strong>Python/Django e Java/SpringBoot</strong>.<br>
 ##
 
 <div align="center">
