@@ -1,7 +1,7 @@
 ## Olá! ✌🏻🙂<br>
 Meu nome é <strong>Marcelo-Uk</strong><br><br>
-Sou estudante de Sistemas de Informação no Instituto Federal de Goiás.
-Atualmente estou estudando algumas linguagens de programação, procurando a que melhor me identifico.
+Sou estudante de Sistemas de Informação no Instituto Federal de Goiás.<br>
+Atualmente estou estudando algumas linguagens de programação, procurando a que melhor me identifico.<br>
 Entre elas estão <strong>Python/Django e Java/SpringBoot</strong>.<br>
 ##
 
