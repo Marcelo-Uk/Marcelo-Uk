@@ -1,8 +1,8 @@
 ## Olá! ✌🏻🙂<br>
 Meu nome é <strong>Marcelo-Uk</strong><br><br>
 Sou estudante de Sistemas de Informação no Instituto Federal de Goiás.<br>
-Atualmente estou estudando algumas linguagens de programação, procurando a que melhor me identifico.<br>
-Entre elas estão <strong>Python/Django e Java/SpringBoot</strong>.<br>
+Trabalho no momento na área de TI como Suporte à ERP, criando pequenos sistemas utilizando <strong>Django/Python</strong>.<br>
+Atualmente estou estudando para me tornar um <strong>Engenheiro de Dados</strong>.<br>
 ##
 
 <div align="center">
